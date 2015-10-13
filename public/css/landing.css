@@ -35,7 +35,7 @@ p {
 }
 
 .logo > img {
-    width: 479px;
+    width: 385px;
     height: auto;
 }
 
@@ -48,7 +48,7 @@ p {
     text-align: center;
     position: absolute;
     width: 100%;
-    margin-top: -333px;
+    margin-top: -285px;
     top: 50%;
 }
 
